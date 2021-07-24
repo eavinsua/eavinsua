@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eavinsua
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning reactjs, expressjs, nextjs, postgres
+- 💞️ I’m looking to collaborate on web/mobile application projects
+- 📫 How to reach me eavinsua.com
